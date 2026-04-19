@@ -124,7 +124,7 @@ I care not only about writing code, but also about:
 Thanks for visiting my profile.
 
 
-## Tech Stack
+## Tech Stack Badges
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![Perl](https://img.shields.io/badge/Perl-39457E?logo=perl&logoColor=white)
