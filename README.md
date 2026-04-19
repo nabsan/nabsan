@@ -51,6 +51,8 @@ Right now, I am especially interested in:
 
 最近は、**Rust / MCP / pgvector / ローカルLLM** を組み合わせて、実務に近いツールや仕組みを作ることに強く興味があります。
 
+I am especially drawn to engineering work where backend design, data flow, and day-to-day operations meet.
+
 ---
 
 ## Featured Projects
