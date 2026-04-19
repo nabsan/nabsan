@@ -122,3 +122,40 @@ I care not only about writing code, but also about:
 - GitHub: [@nabsan](https://github.com/nabsan)
 
 Thanks for visiting my profile.
+
+
+## Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Perl](https://img.shields.io/badge/Perl-39457E?logo=perl&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Zabbix](https://img.shields.io/badge/Zabbix-D40000)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-Postgres-blue)
+![Vertica](https://img.shields.io/badge/Vertica-00A3E0)
+
+
+![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
+![Varnish](https://img.shields.io/badge/Varnish-5468FF)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-6A5ACD)
+![Local LLM](https://img.shields.io/badge/Local_LLM-Ollama-222222)
+
+
+## GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nabsan&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabsan&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=nabsan)
+
+![Visitors](https://komarev.com/ghpvc/?username=nabsan&label=Profile%20views&color=0e75b6&style=flat)
+
