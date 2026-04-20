@@ -122,6 +122,17 @@ I care not only about writing code, but also about:
 
 ---
 
+## Creative / Dance Activity
+
+I also help run **Hello Hello Dance**, a dance-focused creative activity where technology, media production, and everyday practice meet.
+
+- Instagram: [@hellohellodance2025](https://www.instagram.com/hellohellodance2025/)
+- YouTube: [@hellohellodance](https://www.youtube.com/@hellohellodance)
+
+This side of my work connects with practical tooling around video, audio, automation, and AI-assisted production.
+
+---
+
 ## Contact / Links
 
 - GitHub: [@nabsan](https://github.com/nabsan)
