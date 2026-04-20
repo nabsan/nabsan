@@ -66,6 +66,9 @@ I am especially drawn to engineering work where backend design, data flow, and d
 - [naIEng](https://github.com/nabsan/naIEng)  
   AI / engineering oriented experiments and development.
 
+- [oke-creator](https://github.com/nabsan/oke-creator)  
+  Streamlit-based audio workflow tool using Demucs and FFmpeg for vocal separation, pitch shifting, and production-friendly WAV output.
+
 - [NabOwnMonoRepo](https://github.com/nabsan/NabOwnMonoRepo)  
   Personal monorepo for ongoing development and experimentation.
 
